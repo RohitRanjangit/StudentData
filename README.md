@@ -13,3 +13,7 @@ Available operations:
 4. Proctor Login
 5. Admin View
 6. Exit
+
+
+=================================================
+Future implementations use standard password encryption algo to match and store passwords
